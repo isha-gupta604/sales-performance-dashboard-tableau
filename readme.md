@@ -42,13 +42,7 @@ Exploratory Data Analysis
 
 ## Dataset
 
-Superstore Sales Dataset (public retail dataset commonly used for data visualization practice)
-
----
-
-## Dashboard Preview
-
-![Dashboard Preview](dashboard_preview.png)
+e-commerce Sales Dataset (public retail dataset commonly used for data visualization practice)
 
 ---
 
@@ -58,3 +52,4 @@ Isha Gupta
 B.Tech Computer Science (AI & Data Science)
 
 GitHub: https://github.com/isha-gupta604
+
